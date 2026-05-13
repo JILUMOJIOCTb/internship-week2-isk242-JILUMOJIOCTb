@@ -1,2 +1,2 @@
-"какая то залупа из задания 1 потом заменить" 
+"placeholder test1" 
 "description placeholder test1" 
